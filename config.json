@@ -1,0 +1,12 @@
+{   "wethenew":{
+        "email": "",
+        "password": "",
+        "token": ""
+    },
+    "sneakit": {
+        "email": "",
+        "password": ""
+    },
+    "webhook": "",
+    "discord_token": ""
+}
