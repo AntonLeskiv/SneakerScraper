@@ -30,7 +30,7 @@ store_modules = """
 \t   [2] Klekt
 \t   [3] StockX 
 \t   [4] Sneakit
-\t   [5] WeTheNew (Coming soon)
+\t   [5] WeTheNew
 \t   [6] Hypeboost
 \t   [0] Back to main menu
 """
